@@ -19,3 +19,4 @@ spec:
       containers:
       - name: php-redis
         image: us-docker.pkg.dev/google-samples/containers/gke/gb-frontend:v5
+#replicas=2
